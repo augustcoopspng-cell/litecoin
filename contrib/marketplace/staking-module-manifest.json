@@ -1,0 +1,9 @@
+{
+  "name": "wallet-staking-delegation-module",
+  "version": "0.1.0",
+  "description": "Wallet-level staking/delegation helper module: mark funds as staked, manage bonding metadata and provide RPC/CLI stubs. Does not change consensus.",
+  "author": "augustcoopspng-cell",
+  "license": "MIT",
+  "install": "Add src/wallet/staking_*.cpp/.h and integrate RPC stubs. This module is opt-in and does not modify consensus rules.",
+  "repository": "https://github.com/augustcoopspng-cell/litecoin"
+}

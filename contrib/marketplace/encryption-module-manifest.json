@@ -1,0 +1,9 @@
+{
+  "name": "core-encryption-module",
+  "version": "0.1.0",
+  "description": "AEAD encryption helper module (ChaCha20-Poly1305) using libsodium for the litecoin fork.",
+  "author": "augustcoopspng-cell",
+  "license": "MIT",
+  "install": "Add src/crypto/encryption.* to the build and link libsodium. See src/crypto/README.md for usage.",
+  "repository": "https://github.com/augustcoopspng-cell/litecoin"
+}
